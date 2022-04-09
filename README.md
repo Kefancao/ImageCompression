@@ -19,6 +19,7 @@ Compressed version looks like (4:1)
 ![tesla compressed](https://user-images.githubusercontent.com/76069770/162551148-f7c07a07-e3d1-4f35-8478-7c82df2e9067.png)
 
 Decompressing, 
+
 ![00a8048e-eaa4-4b81-9725-e8367a092c51](https://user-images.githubusercontent.com/76069770/162551160-d250bd22-7ee9-46c7-b571-4bec3d49db3a.png)
 
 Of course, it's easy to see there's some loss of quality, this is because we discarded a small part of the matrix, and it is reconstructed using the DCT.
